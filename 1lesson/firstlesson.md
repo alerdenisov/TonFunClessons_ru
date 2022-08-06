@@ -300,7 +300,7 @@ Toncli создал простой проект кошелька, в нем вы
     "Asm.fif" include
 	
 	<b
-		11 32 u, // number
+		10 32 u, // number
 	b>
 	
 
